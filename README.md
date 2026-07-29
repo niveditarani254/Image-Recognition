@@ -6,7 +6,7 @@ An AI-powered image classification web application built with **TensorFlow**, **
 
 ## 🚀 Live Demo
 
-🔗 **Live App:** *Add your Streamlit deployment link here*
+🔗 **Live App:** https://image-recognition-system.streamlit.app/
 
 ---
 
